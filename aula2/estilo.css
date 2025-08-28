@@ -1,0 +1,61 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Libertinus Serif Display", system-ui;
+}
+#topoContainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+    background-color: aqua;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: rgb(84, 84, 207);
+}
+#menu{
+    width: 780px;
+    height: 200px;
+    float: right;
+    background-color: rgb(43, 104, 226);
+    text-align: center;
+    word-spacing: 10px;
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+}
+#banner{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(24, 234, 249);
+    margin: auto;
+    margin-top: 50px;
+}
+#conteudoSite{
+    width: 980px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+#esquerda{
+    width: 450px;
+    height: 500px;
+    float: left;
+    background-color: rgb(7, 78, 121);
+}
+#direita{
+    width: 450px;
+    height: 500px;
+    background-color: rgb(29, 167, 209);
+    float: right;
+}
+#rodape{
+    width: 980px;
+    height: 50px;
+    background-color: darkblue;
+    margin: auto;
+    margin-top: 50px;
+}
